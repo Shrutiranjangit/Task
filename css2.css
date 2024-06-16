@@ -1,0 +1,37 @@
+.verti{
+    margin: 20px;
+    height:200px;
+    width:155px;
+    border :2px solid black;
+}
+
+.yell{
+    margin: 5px 5px 0px 5px;
+    padding: 5px;
+    background-color: darkgoldenrod;
+}
+.remain{
+    margin: 0px 5px 0px 5px;
+    padding: 5px;
+    background-color: lightblue;
+}
+li {
+    float: left;
+    border-right:1px solid blue;
+    color: blue;
+    padding: 10px;
+  }
+ul {
+    height:40px;
+    width:14%;
+    border :2px solid black;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:lightgrey;
+  }
+.active{
+    background-color: gray;
+    color:white;
+}

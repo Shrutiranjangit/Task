@@ -1,0 +1,44 @@
+
+.container{
+    position: relative;
+    top:100px;
+    left:100px;
+    height:615px;
+    width:715px;
+    background-color: rgb(146, 33, 33);
+    line-height: 2.1;
+    color: white;
+    font-size: 30px;
+}
+.bigbox{
+    position:relative;
+    top:50px;
+    left:500px;
+    height:815px;
+    width:915px;
+    background-color: crimson;    
+}
+button{
+    width: 425px;
+    height: 35px;
+    border-radius: 6px;
+    font-size: 25px ;
+    border:none;
+}
+input[type=text],input[type=password],input[type=number],input[type=email]{
+    width:200px;
+    height:20px;
+    font-size: 15px; 
+    border:none;
+}
+.small{
+    position:relative;
+    top:15px;
+    left:175px;   
+}
+textarea{
+    position:relative;
+    top: 10px;
+    height:40px !important;
+    width:270px !important;
+}
